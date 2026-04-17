@@ -7,9 +7,7 @@ ___
 
 My name is Artem
 
-📍 I'm from Novosibirsk  
-
-👨‍💻 Future senior developer  
+📍 I'm from Novosibirsk    
 
 💼 Looking for a team that will grow with me
 
